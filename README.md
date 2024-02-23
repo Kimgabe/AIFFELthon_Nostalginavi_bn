@@ -1,4 +1,4 @@
-![image]("./assets/post_travel.jpg")
+![image](./assets/post_travel.jpg)
 
 # AIFFEL_Final Project : 기억의 지도(NostalgiaNavi)
 ---
